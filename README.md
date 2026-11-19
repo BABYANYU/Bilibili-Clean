@@ -58,4 +58,4 @@
 
 ## 许可
 
-本仓库说明文档和图片采用 [MIT License](LICENSE)。空降助手插件及片段数据来源于第三方项目；各项目许可条款仍适用于其对应内容。
+本仓库许可见 [MIT License](LICENSE)。空降助手组件与数据的来源及适用条款见 [第三方来源与许可](THIRD_PARTY_NOTICES.md)。
