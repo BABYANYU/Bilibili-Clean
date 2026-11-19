@@ -58,4 +58,4 @@
 
 ## 许可
 
-本仓库许可见 [MIT License](LICENSE)。空降助手组件与数据的来源及适用条款见 [第三方来源与许可](THIRD_PARTY_NOTICES.md)。
+本仓库许可见 [MIT License](LICENSE)。第三方组件与数据：[BiliSponsorBlock-ios](https://github.com/lcmovie/BiliSponsorBlock-ios)（空降助手）、[BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock)（片段数据）；其各自许可适用于对应内容。
