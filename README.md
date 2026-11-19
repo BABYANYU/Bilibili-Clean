@@ -56,8 +56,6 @@
 
 遇到问题可提交 [Issue](https://github.com/BABYANYU/Bilibili-Clean/issues)，附上应用版本、iOS 版本和复现步骤。
 
-## 致谢与许可
+## 许可
 
-- 空降助手插件：[BiliSponsorBlock-ios](https://github.com/lcmovie/BiliSponsorBlock-ios)。
-- 空降片段数据：[BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock)。
-- 本仓库采用 [MIT License](LICENSE)，相关第三方项目的许可条款以各自仓库为准。
+本仓库说明文档和图片采用 [MIT License](LICENSE)。空降助手插件及片段数据来源于第三方项目；各项目许可条款仍适用于其对应内容。
